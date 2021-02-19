@@ -23,7 +23,7 @@ Follow these steps to set up and work on your project:
  
 ### Task 2: Minimum Viable Product
 
-Once your repository is set up, practice what you learned today to create a portfolio site from the wireframe. **You may choose one of the three wireframes in the "Wireframe Options" after your name in the folder above.** Your complete project should look similar to the wireframe you chose, and include all of the following elements:
+Once your repository is set up, practice what you learned today to create a portfolio site from the wireframe. **You may choose one of the three wireframes in the "Wireframe Options" after your name in the folder above.** Your complete project should look similar to the wireframe you have been given, and include all of the following elements:
 
 - [ ]  A navigation bar with `About`, `Projects`, and `Contact` that link to the corresponding pages
 - [ ]  Gallery of projects created with flexbox - you may use random images in place of project screenshots for now with the random image link: https://picsum.photos/ or you may use images that mean something to you
