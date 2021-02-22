@@ -7,7 +7,7 @@ In this challenge you will be building a simple portfolio website based on a giv
 
 Portfolio websites are a great way to show off your work to friends, family, and future employers. As you progress through this training you can update this site with projects you're proud of. Similarly, you can change the style, add a blog page, the possibilites are endless.
 
-### Submitted Project Link: __________________________________________
+### Submitted Project Link: https://codebitsacademy-labtask4.netlify.app/
 
 ## Instructions
 
